@@ -1,0 +1,12 @@
+{
+  "version": "2.0.5+31",
+  "notes": "- Automatic updates: Penny checks for new versions and installs them\n- Windows installer: Start menu shortcut, uninstaller, no admin rights needed\n- Check for updates in Settings",
+  "windows": {
+    "url": "https://github.com/kravpeep/apps-releases/releases/download/penny-v2.0.5/PennySetup-2.0.5.exe",
+    "sha256": "d7a454a29a7d8210f4cf35561ee62800686ceffcef9862e0a6a548075f190f0c"
+  },
+  "android": {
+    "url": "https://github.com/kravpeep/apps-releases/releases/download/penny-v2.0.5/penny-2.0.5.apk",
+    "sha256": "aad5bc35c073a768114c318e03f24350a7b3af9231595376c6980211f92a7794"
+  }
+}
