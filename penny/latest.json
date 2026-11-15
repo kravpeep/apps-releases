@@ -1,12 +1,12 @@
 {
-  "version": "2.0.6+32",
-  "notes": "- Your data now lives in AppData instead of Documents (OneDrive no longer syncs the database file). Moved automatically.",
+  "version": "2.1.0+33",
+  "notes": "- Penny is now Coppice: new name and icon\n- Your data, sign-in and settings carry over",
   "windows": {
-    "url": "https://github.com/kravpeep/apps-releases/releases/download/penny-v2.0.6/PennySetup-2.0.6.exe",
-    "sha256": "177d0c338f5011edfa4ec69661c6ea4fffebc6559049e339be57c71c34ae5c80"
+    "url": "https://github.com/kravpeep/apps-releases/releases/download/coppice-v2.1.0/CoppiceSetup-2.1.0.exe",
+    "sha256": "af1db81ba84d2c8a15e7abba3301076da2fcf59812c24379c3f33486d69bbc66"
   },
   "android": {
-    "url": "https://github.com/kravpeep/apps-releases/releases/download/penny-v2.0.6/penny-2.0.6.apk",
-    "sha256": "d4389230fff30d8a4b64591e737d438a62eaa3ef03ab5875cb5430dce1789f3c"
+    "url": "https://github.com/kravpeep/apps-releases/releases/download/coppice-v2.1.0/coppice-2.1.0.apk",
+    "sha256": "e283c553c618527dc79a1802c6e6cffdbea87673d4b120c35d98e47effe77cba"
   }
 }
