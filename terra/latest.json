@@ -1,15 +1,15 @@
 {
-  "version": "0.3.5",
-  "notes": "Terra 0.3.5",
-  "pub_date": "2026-11-22T21:45:44Z",
+  "version": "0.3.6",
+  "notes": "Terra 0.3.6",
+  "pub_date": "2026-11-23T06:30:34Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/kravpeep/apps-releases/releases/download/terra-v0.3.5/TerraSetup-0.3.5.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZFlhbVR3VVdCbXNvWVlSeWVxZDUrdTdUSHBRUUJFTTYzbUFhTkV1aDNpb01uSHp1V21yTnpVVHJoUFVtRlY0N01ZQUE0M1UrUnlSUUJZanRaSDRaTWVkdzNTeGZIRndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzgzODE1CWZpbGU6VGVycmFfMC4zLjVfeDY0LXNldHVwLmV4ZQpSMCtmSWU5M2JwTXBSUDBxSkhnc2Y1dUNlVzFma3lRUVprQW1iU20xUGpoRDJIYlFaS1BqL3l1RTl0UmZDQUlKRGRSL0tqS0lGN1g2QUVFSGxhN1FCZz09Cg=="
+      "url": "https://github.com/kravpeep/apps-releases/releases/download/terra-v0.3.6/TerraSetup-0.3.6.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZFlhbVR3VVdCbWcrQkRKdC9weEliV2NrWUdvMzRSZFp6ZG1xcHRRaGFjVS9NODBkMXFjOUNBcUxPekxQUlN0QlV4M3IzaTRqL20xaVBzd29XdEozY2ltalJmTXEwMVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDE1Mjk4CWZpbGU6VGVycmFfMC4zLjZfeDY0LXNldHVwLmV4ZQo4Y0tnWXRMN1cwZEMxVHZuOVZnYVVYbXJnb1EyMDRObGJpM0I1RWFkTU5nUFk4aC96RE9DL3A2eWRXM0pUdVRrckJHTmNTVkJlajN5SmYxaTYyMUdCZz09Cg=="
     },
     "windows-x86_64-nsis": {
-      "url": "https://github.com/kravpeep/apps-releases/releases/download/terra-v0.3.5/TerraSetup-0.3.5.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZFlhbVR3VVdCbXNvWVlSeWVxZDUrdTdUSHBRUUJFTTYzbUFhTkV1aDNpb01uSHp1V21yTnpVVHJoUFVtRlY0N01ZQUE0M1UrUnlSUUJZanRaSDRaTWVkdzNTeGZIRndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzgzODE1CWZpbGU6VGVycmFfMC4zLjVfeDY0LXNldHVwLmV4ZQpSMCtmSWU5M2JwTXBSUDBxSkhnc2Y1dUNlVzFma3lRUVprQW1iU20xUGpoRDJIYlFaS1BqL3l1RTl0UmZDQUlKRGRSL0tqS0lGN1g2QUVFSGxhN1FCZz09Cg=="
+      "url": "https://github.com/kravpeep/apps-releases/releases/download/terra-v0.3.6/TerraSetup-0.3.6.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZFlhbVR3VVdCbWcrQkRKdC9weEliV2NrWUdvMzRSZFp6ZG1xcHRRaGFjVS9NODBkMXFjOUNBcUxPekxQUlN0QlV4M3IzaTRqL20xaVBzd29XdEozY2ltalJmTXEwMVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDE1Mjk4CWZpbGU6VGVycmFfMC4zLjZfeDY0LXNldHVwLmV4ZQo4Y0tnWXRMN1cwZEMxVHZuOVZnYVVYbXJnb1EyMDRObGJpM0I1RWFkTU5nUFk4aC96RE9DL3A2eWRXM0pUdVRrckJHTmNTVkJlajN5SmYxaTYyMUdCZz09Cg=="
     }
   }
 }
