@@ -1,13 +1,13 @@
 # Terra
 
-Latest version: **0.3.6**
+Latest version: **0.3.7**
 
-- Windows: [TerraSetup-0.3.6.exe](https://github.com/kravpeep/apps-releases/releases/download/terra-v0.3.6/TerraSetup-0.3.6.exe)
-- Android: [terra-0.3.6.apk](https://github.com/kravpeep/apps-releases/releases/download/terra-v0.3.6/terra-0.3.6.apk)
+- Windows: [TerraSetup-0.3.7.exe](https://github.com/kravpeep/apps-releases/releases/download/terra-v0.3.7/TerraSetup-0.3.7.exe)
+- Android: [terra-0.3.7.apk](https://github.com/kravpeep/apps-releases/releases/download/terra-v0.3.7/terra-0.3.7.apk)
 
 Terra on Windows checks for updates itself and installs them.
 On Android, install the new APK over the old one.
 
 SHA-256:
-- `d4fb27a38954d3c02bae04ae05dbc6319a973bb742c2a1cf978dbe9c15f24083`  TerraSetup-0.3.6.exe
-- `609637c7288d792fe4999cde882cb54b53d6e39ae7ea75e96559d9e73cfd1d07`  terra-0.3.6.apk
+- `015b91c8702800e9fd0ff08bfadf52e36f5e0cfb7e1f8890ed689bbb91ca98ca`  TerraSetup-0.3.7.exe
+- `8227e3f4abe21d13f536935012f49a7c5dea28de076376f37c736e8508d2e585`  terra-0.3.7.apk
